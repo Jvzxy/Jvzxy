@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning Web Development but I'm focusing more in Front-end Development
-
+Hi! I'm Jussy Jay Durain, I'm a 2nd year college and I'm currently learning Web Development but I'm focusing more in Front-end Development.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
