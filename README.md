@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Jussy Jay Durain, I'm a 2nd year college and I'm currently learning Web Development but I'm focusing more in Front-end Development.
 
-My Portfolio:
+My Portfolio: https://jvzxy.github.io/Portfolio/
 
 
 # 💻 Tech Stack:
