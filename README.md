@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hi! I'm Jussy Jay Durain, I'm a 2nd year college and I'm currently learning UI/UX Designing and also being a IT Support
 
 My Portfolio: https://jvzxy.github.io/Portfolio/
 
