@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/pixel-banner.svg" alt="Jussy Jay Durain — UI/UX Designer, 3D Modeler, Creative Visualizer" width="100%" />
+  <img src="./assets/pixel-banner.svg" alt="Jussy Jay Durain — UI/UX Designer, 3D Modeler" width="100%" />
 
 
   <a href="https://jvzxy.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-31A8FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
