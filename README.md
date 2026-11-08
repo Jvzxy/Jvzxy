@@ -12,7 +12,7 @@
   <img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
   <h3>🛠️ Design Stack</h3>
-  <img src="https://skillicons.dev/icons?i=figma,blender,ps&theme=dark&perline=3" alt="Figma, Blender, Photoshop" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps&theme=dark&perline=3" alt="Figma, Blender" />
 
   <br><br>
 
