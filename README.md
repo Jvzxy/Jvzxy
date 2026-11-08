@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Jussy Jay Durain</h1>
-<h3 align="center">UI/UX Designer | 3D Modeler</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Jussy Jay Durain
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;3D+Modeler;Creative+Visualizer" alt="Typing Effect" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://jvzxy.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
