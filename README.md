@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/pixel-banner.svg" alt="Jussy Jay Durain — UI/UX Designer and 3D Modeler" width="100%" />
+  <img src="./assets/pixel-banner.svg" alt="Jussy Jay Durain — UI/UX Designer, 3D Modeler and Developer" width="100%" />
 
   <p><i>Designing seamless user experiences and crafting immersive 3D visuals.</i> ⚡</p>
 
