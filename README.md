@@ -2,8 +2,6 @@
 
   <img src="./assets/pixel-banner.svg" alt="Jussy Jay Durain — UI/UX Designer, 3D Modeler and Developer" width="100%" />
 
-  <p><i>Designing seamless user experiences and crafting immersive 3D visuals.</i> ⚡</p>
-
   <a href="https://jvzxy.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-31A8FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/jussy-jay-durain-218739373"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:jvzxys@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
